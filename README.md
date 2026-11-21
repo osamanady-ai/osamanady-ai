@@ -40,7 +40,7 @@
 
 ## <img src="14-icon-10.svg" width="22" height="22" alt="" /> Let's Connect
 
-<a href="mailto:osama.nady4242@gmail.com"><img src="8-gmail.svg" alt="Gmail" height="28" /></a> <a href="https://www.linkedin.com/in/osamanady-ai"><img src="40-linkedin.svg" alt="LinkedIn" height="28" /></a> <a href="https://www.instagram.com/osamanady.ai"><img src="5-instagram.svg" alt="Instagram" height="28" /></a> <a href="https://github.com/osama-nady"><img src="27-github.svg" alt="GitHub" height="28" /></a>
+<a href="mailto:osama.nady4242@gmail.com"><img src="8-gmail.svg" alt="Gmail" height="28" /></a> <a href="https://www.linkedin.com/in/osamanady-ai"><img src="40-linkedin.svg" alt="LinkedIn" height="28" /></a> <a href="https://www.instagram.com/osamanady.ai"><img src="5-instagram.svg" alt="Instagram" height="28" /></a> <a href="https://github.com/osamanady-ai"><img src="27-github.svg" alt="GitHub" height="28" /></a>
 
 <p align="center"><i>Curiosity first. Clear thinking. Useful results.</i></p>
 
