@@ -1,4 +1,4 @@
-<p align="center"><img src="2-ai-header.svg" width="100%" alt="Osama Nady. DATA · INSIGHT · IMPACT. Animated Python RAG terminal, neural network, embeddings and data chart." /></p>
+<p align="center"><img src="2-ai-header.svg?v=typing-restored" width="100%" alt="Osama Nady. DATA · INSIGHT · IMPACT. Animated Python RAG terminal, neural network, embeddings and data chart." /></p>
 
 ## About Me
 
