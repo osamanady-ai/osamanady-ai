@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/osamanady-ai/osamanady-ai/raw/45010dad790867f0aca893184f8c50a9ae4de016/2-ai-header.svg" width="100%" alt="Osama Nady. DATA · INSIGHT · IMPACT. Animated Python RAG terminal, neural network, embeddings and data chart." /></p>
+<p align="center"><img src="https://github.com/osamanady-ai/osamanady-ai/raw/fed9b6e57e3b404b2c22da8bde02a28f1437b06d/2-ai-header.svg" width="100%" alt="Osama Nady. DATA · INSIGHT · IMPACT. Animated Python RAG terminal, neural network, embeddings and data chart." /></p>
 
 ## About Me
 
