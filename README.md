@@ -1,4 +1,4 @@
-<p align="center"><img src="1-ai-header.svg" width="100%" alt="Animated AI network and waves. Hello, I am Osama Nady. Data Analysis and AI. Machine Learning and NLP." /></p>
+<p align="center"><img src="2-ai-header.svg" width="100%" alt="Osama Nady. DATA · INSIGHT · IMPACT. Animated Python RAG terminal, neural network, embeddings and data chart." /></p>
 
 ## About Me
 
