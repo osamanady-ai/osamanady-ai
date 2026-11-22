@@ -38,6 +38,20 @@
 
 ---
 
+## <img src="14-icon-10.svg" width="22" height="22" alt="" /> Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Retail Intelligence Dashboard](https://github.com/osamanady-ai/retail-intelligence-dashboard) | UK online-retail analysis on 541k real transactions with an interactive Streamlit dashboard | pandas, Streamlit, Plotly, SQL |
+| [Penguin Field Notes](https://github.com/osamanady-ai/penguin-field-notes) | Exploratory ecology data analysis with missing-data audits and species comparisons | pandas, Streamlit, Plotly |
+| [Handwritten Digit Classifier](https://github.com/osamanady-ai/handwritten-digit-classifier) | Digit recognition with train-only model selection and error analysis | scikit-learn, NumPy |
+| [Diabetes Progression Regression](https://github.com/osamanady-ai/diabetes-progression-regression) | Ridge regression benchmark with residual diagnostics | scikit-learn, pandas |
+| [SMS Spam Detector](https://github.com/osamanady-ai/sms-spam-detector) | TF-IDF + logistic regression spam classifier with held-out metrics | scikit-learn, NLP |
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=osamanady-ai&show_icons=true&hide_title=true" alt="Osama's GitHub stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanady-ai&layout=compact" alt="Top languages" height="150" /></p>
+
+---
+
 ## <img src="14-icon-10.svg" width="22" height="22" alt="" /> Let's Connect
 
 <a href="mailto:osama.nady4242@gmail.com"><img src="8-gmail.svg" alt="Gmail" height="28" /></a> <a href="https://www.linkedin.com/in/osamanady-ai"><img src="40-linkedin.svg" alt="LinkedIn" height="28" /></a> <a href="https://www.instagram.com/osamanady.ai"><img src="5-instagram.svg" alt="Instagram" height="28" /></a> <a href="https://github.com/osamanady-ai"><img src="27-github.svg" alt="GitHub" height="28" /></a>
