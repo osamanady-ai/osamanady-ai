@@ -48,7 +48,7 @@
 | [Diabetes Progression Regression](https://github.com/osamanady-ai/diabetes-progression-regression) | Ridge regression benchmark with residual diagnostics | scikit-learn, pandas |
 | [SMS Spam Detector](https://github.com/osamanady-ai/sms-spam-detector) | TF-IDF + logistic regression spam classifier with held-out metrics | scikit-learn, NLP |
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=osamanady-ai&show_icons=true&hide_title=true" alt="Osama's GitHub stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanady-ai&layout=compact" alt="Top languages" height="150" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=osamanady-ai&show_icons=true&hide_title=true&theme=tokyonight" alt="Osama's GitHub stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanady-ai&layout=compact&theme=tokyonight" alt="Top languages" height="150" /></p>
 
 ---
 
